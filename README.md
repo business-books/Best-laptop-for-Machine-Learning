@@ -1,4 +1,4 @@
-# Best-laptop-for-Machine-Learning
+# Best laptop for Machine Learning
 Best laptop for Machine Learning
 
 New technologies are constantly evolving, and in order to survive in this cutthroat industry, it's important to stay on top of the latest trends. Artificial intelligence or AI is a hot thing in the market right now and it needs professionals to do it. There's a piece of that technology, machine learning, the next big thing in technology.
